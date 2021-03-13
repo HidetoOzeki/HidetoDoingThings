@@ -1,0 +1,35 @@
+body{
+    background-color:thistle;
+
+    margin-left:7%;
+    margin-right:7%;
+    margin-top: 16px;
+    padding-top: 2em;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 2%;
+    border: 1px solid black;
+}
+html{
+    background-color: darkturquoise;
+}
+h1{
+    background-color: darkturquoise;
+    color:darkslategray;
+    text-align: center;
+}
+h2{
+    background-color: aquamarine;
+    color: black;
+    text-align:start;
+}
+h3{
+    background-color: blanchedalmond;
+}
+
+img{
+    right: 100%;
+}
+td{
+    padding: 2pt;
+}
