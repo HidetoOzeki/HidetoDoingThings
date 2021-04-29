@@ -30,9 +30,16 @@ h4{
     background-color: #ffDDDD;
 }
 
-img{
+.myimage{
     right: 100%;
+    width: 16%;
+    height: 16%;
 }
+.TeslaThumbnail{
+    right: 100%;
+ width: 60%;
+}
+
 td{
     padding: 2pt;
 }
